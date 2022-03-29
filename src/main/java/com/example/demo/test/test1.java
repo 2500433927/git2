@@ -9,6 +9,7 @@ public class test1 {
         System.out.println("git");
         System.out.println("push");
         System.out.println("pull");
+        sout = System.out.println("gitee");
           
     }
 }
